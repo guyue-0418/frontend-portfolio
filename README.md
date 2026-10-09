@@ -28,7 +28,7 @@ GitHub 仓库与 Vercel 在线地址：
 
 ## 在线地址
 
-- GitHub 仓库：待填写
+- GitHub 仓库：https://github.com/guyue-0418/frontend-portfolio
 - Vercel 地址：待填写
 - GitHub Pages 备用地址：待填写
 
