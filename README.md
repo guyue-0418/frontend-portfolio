@@ -29,12 +29,12 @@ GitHub 仓库与 Vercel 在线地址：
 ## 在线地址
 
 - GitHub 仓库：https://github.com/guyue-0418/frontend-portfolio
-- Vercel 地址：待填写
+- Vercel 地址：https://frontend-portfolio-pink.vercel.app/
 - GitHub Pages 备用地址：待填写
 
 ## 完成记录
 
 - [x] 完成页面开发
 - [x] 截图并处理为 800×800
-- [ ] 推送 GitHub 仓库
-- [ ] 完成 Vercel 部署
+- [x] 推送 GitHub 仓库
+- [x] 完成 Vercel 部署
